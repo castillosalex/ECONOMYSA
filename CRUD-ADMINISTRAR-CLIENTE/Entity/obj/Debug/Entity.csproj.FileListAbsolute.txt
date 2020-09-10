@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Entity\bin\Debug\Entity.dll
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Entity\bin\Debug\Entity.pdb
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Entity\obj\Debug\Entity.dll
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Entity\obj\Debug\Entity.pdb
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Entity\obj\Debug\Entity.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Data\bin\Debug\Data.dll
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Data\bin\Debug\Data.pdb
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Data\bin\Debug\Entity.dll
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Data\bin\Debug\Entity.pdb
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Data\obj\Debug\Data.dll
+C:\Users\HP\Desktop\EXAMEN-LUCKY\CRUD-ADMINISTRAR-CLIENTE\Data\obj\Debug\Data.pdb
